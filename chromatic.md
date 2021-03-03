@@ -1,12 +1,12 @@
 <!--
 
-author:   Andre Dietrich
+author:   Trikalis Kostas
 
-email:    LiaScript@web.de
+email:    Trikalisk@gmail.com
 
 version:  0.0.1
 
-language: en
+language: gr
 
 narrator: Greek Female
 
@@ -19,10 +19,6 @@ link:     some css stuff
 
 -->
 title: mypage 
-# required
-date: 2020-04-13T06:49:50.874Z 
-# required
-cover: /img/postbg2.png
-
+# Δοκιμή
 
 χρωματικό τετράχορδο ημιτονίων ή γενικότερα ακολουθία ημιτονίων
