@@ -4,6 +4,8 @@ email:    LiaScript@web.de
 version:  0.0.1
 
 tags:     LiaScript, education, OER
+language: el_GR
+narrator: Greek Female
 
 logo:     https://liascript.github.io/img/bg-showcase-1.jpg
 
