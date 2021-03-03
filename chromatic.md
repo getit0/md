@@ -18,7 +18,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 link: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 link: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
 
-translation: Greek  ./translations/greek.md
+translation: Greek  /translations/greek.md
 translation: Français translations/French.md
 translation: Русский  translations/Russian.md
 
