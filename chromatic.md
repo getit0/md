@@ -18,6 +18,6 @@ link:     some css stuff
           and some more css
 
 -->
-# Δοκιμή
+# test 
 test
 χρωματικό τετράχορδο ημιτονίων ή γενικότερα ακολουθία ημιτονίων
