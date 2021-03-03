@@ -1,11 +1,11 @@
 <!--
 author:   André Dietrich
 email:    LiaScript@web.de
-version:  0.0.1
-
-tags:     LiaScript, education, OER
-language: el_GR
+version:  8.0.1
+language: el
 narrator: Greek Female
+
+
 
 logo:     https://liascript.github.io/img/bg-showcase-1.jpg
 
