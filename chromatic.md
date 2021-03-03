@@ -2,7 +2,7 @@
 author:   André Dietrich
 email:    LiaScript@web.de
 version:  8.0.1
-language: el
+language: gr
 narrator: Greek Female
 
 
