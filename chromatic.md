@@ -6,7 +6,7 @@ email:    Trikalisk@gmail.com
 
 version:  0.0.1
 
-language: gr
+language: el
 
 narrator: Greek Female
 
