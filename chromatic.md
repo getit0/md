@@ -8,7 +8,7 @@ version:  0.0.1
 
 language: en
 
-narrator: US English Female
+narrator: Greek Female
 
 script:   javascript resourse url
 
